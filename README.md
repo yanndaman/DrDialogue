@@ -1,4 +1,4 @@
-# Dr. Dialog 🩺💬
+# Dr. Dialogue 🩺💬
 **The cure for the common draft.**
 
 Dr. Dialog is a specialized "Draft-to-Diplomacy" tool designed to bridge the gap between raw thoughts and polished communication. Whether you're struggling to find the right "fancy words" or just need to adjust your tone for a specific audience, Dr. Dialog provides the instant communication "prescription" you need.
